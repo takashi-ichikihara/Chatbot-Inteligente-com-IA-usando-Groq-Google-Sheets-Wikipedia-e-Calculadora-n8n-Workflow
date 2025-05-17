@@ -82,3 +82,4 @@ Você precisa ter acesso ou configurar:
 ├── Curso-N8N-Gratuito-do-YT---NoCode-Start-Up.json
 └── images
     └── 1.png
+    └── 2.png
