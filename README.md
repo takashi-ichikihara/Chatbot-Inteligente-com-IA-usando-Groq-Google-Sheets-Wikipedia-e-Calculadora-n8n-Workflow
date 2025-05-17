@@ -1,4 +1,4 @@
-# 🤖 Chatbot Inteligente com IA, Google Sheets, Wikipedia e Calculadora – n8n Workflow
+# 🤖 Chatbot Inteligente com IA com Groq, Google Sheets, Wikipedia e Calculadora – n8n Workflow
 
 Este projeto é um workflow no [n8n](https://n8n.io) que atua como um **chatbot inteligente**, capaz de:
 - Armazenar conversas em uma planilha do Google Sheets,
@@ -79,6 +79,6 @@ Você precisa ter acesso ou configurar:
 ```text
 .
 ├── README.md
-├── workflow.json
-└── imagens/
-    └── fluxo-exemplo.png
+├── Curso-N8N-Gratuito-do-YT---NoCode-Start-Up.json
+└── images
+    └── 1.png
