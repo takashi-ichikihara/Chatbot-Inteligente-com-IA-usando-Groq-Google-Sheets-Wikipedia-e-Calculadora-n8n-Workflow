@@ -80,6 +80,8 @@ Você precisa ter acesso ou configurar:
 .
 ├── README.md
 ├── Curso-N8N-Gratuito-do-YT---NoCode-Start-Up.json
+└── video
+      └── agente_de_ia_com_groq.mp4
 └── images
     └── 1.png
     └── 2.png
